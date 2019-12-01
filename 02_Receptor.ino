@@ -71,7 +71,6 @@ typedef struct __attribute__((__packed__))
 //prototypes
 void EnviaInformacoesThingspeak(String StringDados);
 void FazConexaoWiFi(void);
-float FazLeituraUmidade(void);
  
 /*
  * Implementações
