@@ -28,7 +28,7 @@
 
 /*DEFINE A REDE A QUAL IRÁ SE CONECTAR, DEFINE A SENHA E O INTERVALO DE ATUALIZAÇÃO DO THINGSPEAK*/
   #define SSID_REDE     "ZikTrak" //coloque aqui o nome da rede que se deseja conectar
-  #define SENHA_REDE    "quirino1106"  //coloque aqui a senha da rede que se deseja conectar
+  #define SENHA_REDE    "************"  //coloque aqui a senha da rede que se deseja conectar
   #define INTERVALO_ENVIO_THINGSPEAK  15000  //intervalo entre envios de dados ao ThingSpeak (em ms)
   int keyIndex = 0; // your network key Index number (needed only for WEP)
 
